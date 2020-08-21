@@ -3,5 +3,4 @@
 iwxxmConverter.log
 iwxxm2Converter/iwxxmConverter.log
 iwxxm3Converter/iwxxmConverter.log
-iwxxm2Converter/output/
-
+iwxxm2Converter/output/*
